@@ -1,0 +1,11 @@
+discord.py==2.3.2
+python-dateutil==2.8.1
+pytz==2018.5
+
+# needed for parse user input for reminder
+parsedatetime==2.6
+
+# needed for DB interactions
+Django==3.2.25
+asgiref==3.4.1
+
